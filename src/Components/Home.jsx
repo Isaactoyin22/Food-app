@@ -131,7 +131,6 @@ function Home() {
 
   return (
     <div>
-      {/* Header */}
       <header className="bg-orange-100 p-4 flex justify-between items-center">
         <h1 className="text-4xl font-boldtext-4xl font-bold bg-gradient-to-r from-purple-500 via-orange-500 to-pink-500 bg-clip-text text-transparent">
           The Amingo Recipe App

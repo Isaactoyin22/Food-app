@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LoadingScreen from "./Components/LoadingScreen";
 import SignUp from "./Components/SignUp";
-import LogIn from "./Components/LogIn";
+import LogIn from "./Components/Login";
 import Home from "./Components/Home";
 import Search from "./Components/Search";
 import Profile from "./Components/Profile";
